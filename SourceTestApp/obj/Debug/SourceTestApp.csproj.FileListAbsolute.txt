@@ -1,0 +1,10 @@
+c:\users\cnjaliu11\documents\visual studio 2015\Projects\SourceTestApp\SourceTestApp\bin\Debug\SourceTestApp.exe.config
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\bin\Debug\SourceTestApp.exe.config
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\bin\Debug\SourceTestApp.exe
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\bin\Debug\SourceTestApp.pdb
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\obj\Debug\SourceTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\obj\Debug\SourceTestApp.Form1.resources
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\obj\Debug\SourceTestApp.Properties.Resources.resources
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\obj\Debug\SourceTestApp.csproj.GenerateResource.Cache
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\obj\Debug\SourceTestApp.exe
+C:\Users\Zhen Liu\Desktop\SourceTestApp\SourceTestApp\obj\Debug\SourceTestApp.pdb
